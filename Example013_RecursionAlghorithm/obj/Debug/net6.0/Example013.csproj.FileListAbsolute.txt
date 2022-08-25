@@ -1,0 +1,15 @@
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\bin\Debug\net6.0\Example013.exe
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\bin\Debug\net6.0\Example013.deps.json
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\bin\Debug\net6.0\Example013.runtimeconfig.json
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\bin\Debug\net6.0\Example013.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\bin\Debug\net6.0\Example013.pdb
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\obj\Debug\net6.0\Example013.csproj.AssemblyReference.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\obj\Debug\net6.0\Example013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\obj\Debug\net6.0\Example013.AssemblyInfoInputs.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\obj\Debug\net6.0\Example013.AssemblyInfo.cs
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\obj\Debug\net6.0\Example013.csproj.CoreCompileInputs.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\obj\Debug\net6.0\Example013.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\obj\Debug\net6.0\refint\Example013.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\obj\Debug\net6.0\Example013.pdb
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\obj\Debug\net6.0\Example013.genruntimeconfig.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_4\Example013_RecursionAlghorithm\obj\Debug\net6.0\ref\Example013.dll
